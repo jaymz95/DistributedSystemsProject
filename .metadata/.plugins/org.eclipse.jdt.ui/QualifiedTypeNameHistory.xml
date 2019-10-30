@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ie.gmit.ds.Passwords"/>
+    <fullyQualifiedTypeName name="ie.gmit.ds.userIds"/>
+    <fullyQualifiedTypeName name="io.grpc.Server"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="io.grpc.ServerBuilder"/>
+    <fullyQualifiedTypeName name="io.grpc.ManagedChannel"/>
+    <fullyQualifiedTypeName name="io.grpc.ManagedChannelBuilder"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="com.google.protobuf.BoolValue"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger.Level"/>
+    <fullyQualifiedTypeName name="io.grpc.StatusRuntimeException"/>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="com.google.protobuf.Empty"/>
+    <fullyQualifiedTypeName name="io.grpc.stub.StreamObserver"/>
+    <fullyQualifiedTypeName name="com.google.rpc.Status"/>
+    <fullyQualifiedTypeName name="io.grpc.Status"/>
+</qualifiedTypeNameHistroy>

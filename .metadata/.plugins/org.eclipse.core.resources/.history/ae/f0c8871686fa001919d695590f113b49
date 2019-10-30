@@ -1,0 +1,55 @@
+package ie.gmit.ds;
+
+
+import static io.grpc.stub.ServerCalls.asyncUnimplementedUnaryCall;
+
+import java.util.ArrayList;
+import java.util.logging.Logger;
+
+import com.google.protobuf.BoolValue;
+import com.google.protobuf.Empty;
+
+//import ie.gmit.ds.PasswordServiceGrpc.PasswordServiceImplBase;
+import io.grpc.stub.StreamObserver;
+
+public class PasswordServiceImpl  {
+	
+	/*private ArrayList<userId> usersList;
+    private static final Logger logger =
+            Logger.getLogger(PasswordServiceImpl.class.getName());
+
+    public PasswordServiceImpl() {
+        usersList = new ArrayList<>();
+        //createDummyItems();
+    }
+
+    @Override
+    public void userId(userId user,
+    		io.grpc.stub.StreamObserver<ie.gmit.ds.hashedPassword> responseObserver) {
+        try {
+            usersList.add(user);
+            logger.info("Added new user: " + user);
+            responseObserver.onNext(BoolValue.newBuilder().setValue(true).build());
+        } catch (RuntimeException ex) {
+            responseObserver.onNext(BoolValue.newBuilder().setValue(false).build());
+        }
+        responseObserver.onCompleted();
+    }
+    
+    /*public void hashPassword(ie.gmit.ds.userId request,
+            io.grpc.stub.StreamObserver<ie.gmit.ds.hashedPassword> responseObserver) {
+          asyncUnimplementedUnaryCall(getHashPasswordMethod(), responseObserver);
+        }*/
+
+    /*@Override
+    public void getItems(Empty request,
+                         StreamObserver<userId> responseObserver) {
+        userId.Builder u = Items.newBuilder();
+        for (userId u1 : usersList) {
+            userId.addItems(u1);
+        }
+        responseObserver.onNext(u.build());
+        responseObserver.onCompleted();
+    }*/
+
+}

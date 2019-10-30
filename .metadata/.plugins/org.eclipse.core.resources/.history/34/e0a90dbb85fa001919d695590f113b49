@@ -1,0 +1,8 @@
+package ie.gmit.ds;
+
+
+import ie.gmit.ds.PasswordServiceGrpc.PasswordServiceImplBase;
+
+public class PasswordServiceImpl extends PasswordServiceImplBase {
+
+}

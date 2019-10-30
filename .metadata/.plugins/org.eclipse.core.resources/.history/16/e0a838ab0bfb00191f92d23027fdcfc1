@@ -1,0 +1,11 @@
+package ie.gmit.ds;
+
+import java.util.logging.Logger;
+
+import io.grpc.Server;
+
+public class PasswordServer {
+	private Server grpcServer;
+    private static final Logger logger = Logger.getLogger(PasswordServer.class.getName());
+    private static final int PORT = 50551;
+}
