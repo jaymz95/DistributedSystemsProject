@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ie.gmit.ds.Passwords"/>
-    <fullyQualifiedTypeName name="ie.gmit.ds.userIds"/>
     <fullyQualifiedTypeName name="io.grpc.Server"/>
     <fullyQualifiedTypeName name="java.lang.System.Logger"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
@@ -18,4 +17,5 @@
     <fullyQualifiedTypeName name="io.grpc.stub.StreamObserver"/>
     <fullyQualifiedTypeName name="com.google.rpc.Status"/>
     <fullyQualifiedTypeName name="io.grpc.Status"/>
+    <fullyQualifiedTypeName name="ie.gmit.ds.userIds"/>
 </qualifiedTypeNameHistroy>

@@ -2,7 +2,7 @@ package ie.gmit.ds;
 
 import java.lang.System.Logger.Level;
 import java.util.concurrent.TimeUnit;
-import java.util.logging.*;
+import java.util.logging.Logger;
 
 import com.google.protobuf.BoolValue;
 import com.google.protobuf.Empty;
@@ -34,24 +34,24 @@ public class PasswordClient {
         channel.shutdown().awaitTermination(5, TimeUnit.SECONDS);
     }
     
-    public void addNewUser(userIds newUser) {
-        logger.info("Adding new inventory item " + newUser);
-        hashedPassword result;
+    public void checkPassword() {
+        //logger.info("Adding new inventory item " + newItem);
+        BoolValue result = BoolValue.newBuilder().setValue(false).build();
         try {
-            result = syncPasswordService.hashPassword(newUser);
+            //result = syncPasswordService.addItem(newItem);
         } catch (StatusRuntimeException ex) {
             //logger.log(Level.WARNING, "RPC failed: {0}", ex.getStatus());
             return;
         }
-        if (result.getAllFields() != null) {
-            logger.info("Successfully added item " + newUser);
+        /*if (result.getValue()) {
+            logger.info("Successfully added item " + newItem);
         } else {
             logger.warning("Failed to add item");
-        }
+        }*/
     }
     
-    /*private void getUsers() {
-        StreamObserver<userIds> responseObserver = new StreamObserver<userIds>() {
+    private void getItems() {
+        /*StreamObserver<Items> responseObserver = new StreamObserver<Items>() {
             @Override
             public void onNext(Items items) {
                 logger.info("Received items: " + items);
@@ -74,28 +74,29 @@ public class PasswordClient {
 
         try {
             logger.info("Requesting all items ");
-            asyncInventoryService.getItems(Empty.newBuilder().build(), responseObserver);
+            asyncPasswordService.getItems(Empty.newBuilder().build(), responseObserver);
             logger.info("Returned from requesting all items ");
         } catch (
                 StatusRuntimeException ex) {
-            logger.log(Level.WARNING, "RPC failed: {0}", ex.getStatus());
+            //Logger.log(Level.WARNING, "RPC failed: {0}", ex.getStatus());
             return;
-        }
+        }*/
     }
-    */
+    
     public static void main(String[] args) throws Exception {
     	PasswordClient client = new PasswordClient("localhost", 50551);
-        userIds newUser = userIds.newBuilder()
-                .setUserId("1234")
-                .setPassword("New Item")
+        /*Item newItem = Item.newBuilder()
+                .setId("1234")
+                .setName("New Item")
+                .setDescription("Best New Item")
                 .build();
         try {
-            client.addNewUser(newUser);
-            //client.getUsers();
+            client.addNewInventoryItem(newItem);
+            client.getItems();
         } finally {
             // Don't stop process, keep alive to receive async response
             Thread.currentThread().join();
-        }
+        }*/
     	Thread.currentThread().join();
     }
     
