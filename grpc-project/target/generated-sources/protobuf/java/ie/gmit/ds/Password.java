@@ -40,16 +40,16 @@ public final class Password {
     java.lang.String[] descriptorData = {
       "\n\016password.proto\022\nie.gmit.ds\032\036google/pro" +
       "tobuf/wrappers.proto\032\033google/protobuf/em" +
-      "pty.proto\"+\n\007userIds\022\016\n\006userId\030\001 \001(\t\022\020\n\010" +
+      "pty.proto\"+\n\007userIds\022\016\n\006userId\030\001 \001(\005\022\020\n\010" +
       "password\030\002 \001(\t\"F\n\016hashedPassword\022\016\n\006user" +
-      "Id\030\001 \001(\t\022\026\n\016hashedPassword\030\002 \001(\t\022\014\n\004salt" +
-      "\030\003 \001(\t\"M\n\rcheckPassword\022\016\n\006userId\030\001 \001(\t\022" +
-      "\020\n\010password\030\002 \001(\t\022\014\n\004hash\030\003 \001(\t\022\014\n\004salt\030" +
-      "\004 \001(\t2\236\001\n\017PasswordService\022?\n\014hashPasswor" +
-      "d\022\023.ie.gmit.ds.userIds\032\032.ie.gmit.ds.hash" +
-      "edPassword\022J\n\021validatePasswords\022\031.ie.gmi" +
-      "t.ds.checkPassword\032\032.google.protobuf.Boo" +
-      "lValueB\016\n\nie.gmit.dsP\001b\006proto3"
+      "Id\030\001 \001(\005\022\026\n\016hashedPassword\030\002 \001(\t\022\014\n\004salt" +
+      "\030\003 \001(\t\"=\n\rcheckPassword\022\020\n\010password\030\002 \001(" +
+      "\t\022\014\n\004hash\030\003 \001(\t\022\014\n\004salt\030\004 \001(\t2\236\001\n\017Passwo" +
+      "rdService\022?\n\014hashPassword\022\023.ie.gmit.ds.u" +
+      "serIds\032\032.ie.gmit.ds.hashedPassword\022J\n\021va" +
+      "lidatePasswords\022\031.ie.gmit.ds.checkPasswo" +
+      "rd\032\032.google.protobuf.BoolValueB\016\n\nie.gmi" +
+      "t.dsP\001b\006proto3"
     };
     descriptor = com.google.protobuf.Descriptors.FileDescriptor
       .internalBuildGeneratedFileFrom(descriptorData,
@@ -74,7 +74,7 @@ public final class Password {
     internal_static_ie_gmit_ds_checkPassword_fieldAccessorTable = new
       com.google.protobuf.GeneratedMessageV3.FieldAccessorTable(
         internal_static_ie_gmit_ds_checkPassword_descriptor,
-        new java.lang.String[] { "UserId", "Password", "Hash", "Salt", });
+        new java.lang.String[] { "Password", "Hash", "Salt", });
     com.google.protobuf.WrappersProto.getDescriptor();
     com.google.protobuf.EmptyProto.getDescriptor();
   }

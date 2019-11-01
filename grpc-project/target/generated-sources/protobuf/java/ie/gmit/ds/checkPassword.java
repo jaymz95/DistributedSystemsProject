@@ -16,7 +16,6 @@ private static final long serialVersionUID = 0L;
     super(builder);
   }
   private checkPassword() {
-    userId_ = "";
     password_ = "";
     hash_ = "";
     salt_ = "";
@@ -52,12 +51,6 @@ private static final long serialVersionUID = 0L;
           case 0:
             done = true;
             break;
-          case 10: {
-            java.lang.String s = input.readStringRequireUtf8();
-
-            userId_ = s;
-            break;
-          }
           case 18: {
             java.lang.String s = input.readStringRequireUtf8();
 
@@ -106,40 +99,6 @@ private static final long serialVersionUID = 0L;
     return ie.gmit.ds.Password.internal_static_ie_gmit_ds_checkPassword_fieldAccessorTable
         .ensureFieldAccessorsInitialized(
             ie.gmit.ds.checkPassword.class, ie.gmit.ds.checkPassword.Builder.class);
-  }
-
-  public static final int USERID_FIELD_NUMBER = 1;
-  private volatile java.lang.Object userId_;
-  /**
-   * <code>string userId = 1;</code>
-   */
-  public java.lang.String getUserId() {
-    java.lang.Object ref = userId_;
-    if (ref instanceof java.lang.String) {
-      return (java.lang.String) ref;
-    } else {
-      com.google.protobuf.ByteString bs = 
-          (com.google.protobuf.ByteString) ref;
-      java.lang.String s = bs.toStringUtf8();
-      userId_ = s;
-      return s;
-    }
-  }
-  /**
-   * <code>string userId = 1;</code>
-   */
-  public com.google.protobuf.ByteString
-      getUserIdBytes() {
-    java.lang.Object ref = userId_;
-    if (ref instanceof java.lang.String) {
-      com.google.protobuf.ByteString b = 
-          com.google.protobuf.ByteString.copyFromUtf8(
-              (java.lang.String) ref);
-      userId_ = b;
-      return b;
-    } else {
-      return (com.google.protobuf.ByteString) ref;
-    }
   }
 
   public static final int PASSWORD_FIELD_NUMBER = 2;
@@ -258,9 +217,6 @@ private static final long serialVersionUID = 0L;
   @java.lang.Override
   public void writeTo(com.google.protobuf.CodedOutputStream output)
                       throws java.io.IOException {
-    if (!getUserIdBytes().isEmpty()) {
-      com.google.protobuf.GeneratedMessageV3.writeString(output, 1, userId_);
-    }
     if (!getPasswordBytes().isEmpty()) {
       com.google.protobuf.GeneratedMessageV3.writeString(output, 2, password_);
     }
@@ -279,9 +235,6 @@ private static final long serialVersionUID = 0L;
     if (size != -1) return size;
 
     size = 0;
-    if (!getUserIdBytes().isEmpty()) {
-      size += com.google.protobuf.GeneratedMessageV3.computeStringSize(1, userId_);
-    }
     if (!getPasswordBytes().isEmpty()) {
       size += com.google.protobuf.GeneratedMessageV3.computeStringSize(2, password_);
     }
@@ -306,8 +259,6 @@ private static final long serialVersionUID = 0L;
     }
     ie.gmit.ds.checkPassword other = (ie.gmit.ds.checkPassword) obj;
 
-    if (!getUserId()
-        .equals(other.getUserId())) return false;
     if (!getPassword()
         .equals(other.getPassword())) return false;
     if (!getHash()
@@ -325,8 +276,6 @@ private static final long serialVersionUID = 0L;
     }
     int hash = 41;
     hash = (19 * hash) + getDescriptor().hashCode();
-    hash = (37 * hash) + USERID_FIELD_NUMBER;
-    hash = (53 * hash) + getUserId().hashCode();
     hash = (37 * hash) + PASSWORD_FIELD_NUMBER;
     hash = (53 * hash) + getPassword().hashCode();
     hash = (37 * hash) + HASH_FIELD_NUMBER;
@@ -466,8 +415,6 @@ private static final long serialVersionUID = 0L;
     @java.lang.Override
     public Builder clear() {
       super.clear();
-      userId_ = "";
-
       password_ = "";
 
       hash_ = "";
@@ -500,7 +447,6 @@ private static final long serialVersionUID = 0L;
     @java.lang.Override
     public ie.gmit.ds.checkPassword buildPartial() {
       ie.gmit.ds.checkPassword result = new ie.gmit.ds.checkPassword(this);
-      result.userId_ = userId_;
       result.password_ = password_;
       result.hash_ = hash_;
       result.salt_ = salt_;
@@ -552,10 +498,6 @@ private static final long serialVersionUID = 0L;
 
     public Builder mergeFrom(ie.gmit.ds.checkPassword other) {
       if (other == ie.gmit.ds.checkPassword.getDefaultInstance()) return this;
-      if (!other.getUserId().isEmpty()) {
-        userId_ = other.userId_;
-        onChanged();
-      }
       if (!other.getPassword().isEmpty()) {
         password_ = other.password_;
         onChanged();
@@ -594,75 +536,6 @@ private static final long serialVersionUID = 0L;
           mergeFrom(parsedMessage);
         }
       }
-      return this;
-    }
-
-    private java.lang.Object userId_ = "";
-    /**
-     * <code>string userId = 1;</code>
-     */
-    public java.lang.String getUserId() {
-      java.lang.Object ref = userId_;
-      if (!(ref instanceof java.lang.String)) {
-        com.google.protobuf.ByteString bs =
-            (com.google.protobuf.ByteString) ref;
-        java.lang.String s = bs.toStringUtf8();
-        userId_ = s;
-        return s;
-      } else {
-        return (java.lang.String) ref;
-      }
-    }
-    /**
-     * <code>string userId = 1;</code>
-     */
-    public com.google.protobuf.ByteString
-        getUserIdBytes() {
-      java.lang.Object ref = userId_;
-      if (ref instanceof String) {
-        com.google.protobuf.ByteString b = 
-            com.google.protobuf.ByteString.copyFromUtf8(
-                (java.lang.String) ref);
-        userId_ = b;
-        return b;
-      } else {
-        return (com.google.protobuf.ByteString) ref;
-      }
-    }
-    /**
-     * <code>string userId = 1;</code>
-     */
-    public Builder setUserId(
-        java.lang.String value) {
-      if (value == null) {
-    throw new NullPointerException();
-  }
-  
-      userId_ = value;
-      onChanged();
-      return this;
-    }
-    /**
-     * <code>string userId = 1;</code>
-     */
-    public Builder clearUserId() {
-      
-      userId_ = getDefaultInstance().getUserId();
-      onChanged();
-      return this;
-    }
-    /**
-     * <code>string userId = 1;</code>
-     */
-    public Builder setUserIdBytes(
-        com.google.protobuf.ByteString value) {
-      if (value == null) {
-    throw new NullPointerException();
-  }
-  checkByteStringIsUtf8(value);
-      
-      userId_ = value;
-      onChanged();
       return this;
     }
 

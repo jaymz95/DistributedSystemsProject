@@ -1,6 +1,7 @@
 package ie.gmit.ds;
 
 import java.lang.System.Logger.Level;
+import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.*;
 
@@ -35,10 +36,16 @@ public class PasswordClient {
     }
     
     public void addNewUser(userIds newUser) {
+    	
+    	//hashPassword(userIds user,
+    	//	io.grpc.stub.StreamObserver<ie.gmit.ds.hashedPassword> responseObserver);
+    	
         logger.info("Adding new inventory item " + newUser);
         hashedPassword result;
         try {
             result = syncPasswordService.hashPassword(newUser);
+            logger.info("HASH HASH HASH " + result);
+            
         } catch (StatusRuntimeException ex) {
             //logger.log(Level.WARNING, "RPC failed: {0}", ex.getStatus());
             return;
@@ -49,6 +56,13 @@ public class PasswordClient {
             logger.warning("Failed to add item");
         }
     }
+    
+    private void valid(String userPassword) {
+    	
+    	
+    	
+    }
+    
     
     /*private void getUsers() {
         StreamObserver<userIds> responseObserver = new StreamObserver<userIds>() {
@@ -85,18 +99,58 @@ public class PasswordClient {
     */
     public static void main(String[] args) throws Exception {
     	PasswordClient client = new PasswordClient("localhost", 50551);
-        userIds newUser = userIds.newBuilder()
-                .setUserId("1234")
-                .setPassword("New Item")
-                .build();
-        try {
-            client.addNewUser(newUser);
-            //client.getUsers();
-        } finally {
-            // Don't stop process, keep alive to receive async response
-            Thread.currentThread().join();
-        }
-    	Thread.currentThread().join();
+        userIds newUser;
+    	Scanner myObj = new Scanner(System.in);
+        
+     
+    	String quit = null;
+    	
+    	//while (quit != "q" || quit != "Q") {
+    	for(int i = 0; i < 100 ; i++) {
+    		System.out.println("Menu: ");
+        	System.out.println("	1) Create Account: ");
+        	System.out.println("	2) Sign in:");
+
+        	int option = myObj.nextInt();
+        	
+        	if(option == 1) {
+        		System.out.println("Enter User Id:");
+            	int uId = myObj.nextInt();
+
+            	System.out.println("Enter Password:");
+            	String p = myObj.nextLine();;
+            	p = myObj.nextLine();
+            	
+            	if (p != null) {
+            		newUser = userIds.newBuilder()
+                			.setUserId(uId)
+                			.setPassword(p)
+                            .build();
+                	try {
+                        client.addNewUser(newUser);
+                        //client.getUsers();
+                    } finally {
+                        // Don't stop process, keep alive to receive async response
+                        //Thread.currentThread().join();
+                    }
+            	}
+            	
+        	}
+        	else if ( option == 2 ) {
+        		System.out.println("Enter Password:");
+            	String p = myObj.nextLine();
+        	}
+        	else if ( quit == "q" ) {
+        		//break;
+        	}
+
+    	}
+    	
+    	
+    	
+    	System.out.println();
+    	
+    	//Thread.currentThread().join();
     }
     
 

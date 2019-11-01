@@ -8,16 +8,6 @@ public interface checkPasswordOrBuilder extends
     com.google.protobuf.MessageOrBuilder {
 
   /**
-   * <code>string userId = 1;</code>
-   */
-  java.lang.String getUserId();
-  /**
-   * <code>string userId = 1;</code>
-   */
-  com.google.protobuf.ByteString
-      getUserIdBytes();
-
-  /**
    * <code>string password = 2;</code>
    */
   java.lang.String getPassword();

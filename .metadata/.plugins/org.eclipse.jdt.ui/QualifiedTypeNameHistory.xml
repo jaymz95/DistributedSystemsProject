@@ -18,4 +18,7 @@
     <fullyQualifiedTypeName name="com.google.rpc.Status"/>
     <fullyQualifiedTypeName name="io.grpc.Status"/>
     <fullyQualifiedTypeName name="ie.gmit.ds.userIds"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ie.gmit.ds.hashedPassword"/>
+    <fullyQualifiedTypeName name="ie.gmit.ds.hashedPassword.Builder"/>
 </qualifiedTypeNameHistroy>

@@ -8,14 +8,9 @@ public interface hashedPasswordOrBuilder extends
     com.google.protobuf.MessageOrBuilder {
 
   /**
-   * <code>string userId = 1;</code>
+   * <code>int32 userId = 1;</code>
    */
-  java.lang.String getUserId();
-  /**
-   * <code>string userId = 1;</code>
-   */
-  com.google.protobuf.ByteString
-      getUserIdBytes();
+  int getUserId();
 
   /**
    * <code>string hashedPassword = 2;</code>
