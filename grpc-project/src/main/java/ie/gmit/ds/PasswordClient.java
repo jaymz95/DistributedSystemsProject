@@ -1,6 +1,7 @@
 package ie.gmit.ds;
 
 import java.lang.System.Logger.Level;
+import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.*;
@@ -57,10 +58,49 @@ public class PasswordClient {
         }
     }
     
-    private void valid(String userPassword) {
+    private void valid(userIds userPassword) {
     	
-    	
-    	
+        hashedPassword result;
+        checkPassword check = null;
+        BoolValue ans;
+        PasswordServiceImpl p = null;
+        
+        try {
+            result = syncPasswordService.hashPassword(userPassword);
+            logger.info("HASH HASH HASH " + result);
+            
+        } catch (StatusRuntimeException ex) {
+            //logger.log(Level.WARNING, "RPC failed: {0}", ex.getStatus());
+            return;
+        }
+        if (result.getAllFields() != null) {
+            logger.info("Successfully added item " + userPassword);
+        } else {
+            logger.warning("Failed to add item");
+        }
+        check.newBuilder().setPassword(userPassword.getPassword())
+        		.setHash(result.getHashedPassword())
+        		.setSalt(result.getSalt());
+        
+        /*for (int i = -1 ; i < PasswordServiceImpl.usersHashList.size(); i++) {
+
+        	boolean pass = false;
+   		 	//pass = p.isExpectedPassword(u.getPassword().toCharArray(), PasswordServiceImpl.usersHashList.get(i).getSalt().getBytes(), PasswordServiceImpl.usersHashList.get(i).getHashedPassword().getBytes());
+   		 	
+        	check. = PasswordServiceImpl.usersHashList.get(i).getHashedPassword();
+        	check = PasswordServiceImpl.usersHashList.get(i).getSalt();
+        	
+        	if (pass == true) {
+   		 		i = PasswordServiceImpl.usersHashList.size() + 5;
+   		        logger.info("LOOPY LOOPY LOOOO" + PasswordServiceImpl.usersHashList.get(i).getUserId());
+   			 
+   		 }
+   	 }*/
+        
+        
+        ans = syncPasswordService.validatePasswords(check);
+        logger.info("please werq" + ans);
+		
     }
     
     
@@ -137,8 +177,26 @@ public class PasswordClient {
             	
         	}
         	else if ( option == 2 ) {
-        		System.out.println("Enter Password:");
-            	String p = myObj.nextLine();
+        		System.out.println("Enter User Id:");
+            	int uId = myObj.nextInt();
+
+            	System.out.println("Enter Password:");
+            	String p = myObj.nextLine();;
+            	p = myObj.nextLine();
+            	
+            	if (p != null) {
+            		newUser = userIds.newBuilder()
+                			.setUserId(uId)
+                			.setPassword(p)
+                            .build();
+                	try {
+                        client.valid(newUser);
+                        //client.getUsers();
+                    } finally {
+                        // Don't stop process, keep alive to receive async response
+                        //Thread.currentThread().join();
+                    }
+            	}
         	}
         	else if ( quit == "q" ) {
         		//break;

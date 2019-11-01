@@ -11,12 +11,12 @@ import ie.gmit.ds.PasswordServiceGrpc.PasswordServiceImplBase;
 public class PasswordServiceImpl extends PasswordServiceImplBase {
 	
 	private ArrayList<userIds> usersList;
-	private ArrayList<hashedPassword.Builder> usersHashList;
+	public static ArrayList<hashedPassword.Builder> usersHashList;
     private static final Logger logger =
             Logger.getLogger(PasswordServiceImpl.class.getName());
 
     public PasswordServiceImpl() {
-        usersList = new ArrayList<>();
+        //usersList = new ArrayList<>();
         usersHashList = new ArrayList<>();
         //createDummyItems();
     }
@@ -25,8 +25,8 @@ public class PasswordServiceImpl extends PasswordServiceImplBase {
     public void hashPassword(userIds user,
     		io.grpc.stub.StreamObserver<ie.gmit.ds.hashedPassword> responseObserver) {
     
-        usersList.add(user);
-        logger.info("Added new user(PasswordServiceImpl: " + user);
+        //usersList.add(user);
+        //logger.info("Added new user(PasswordServiceImpl: " + user);
         
         /*usersList.add(userIds.newBuilder()
                 .setUserId(001)
@@ -58,20 +58,30 @@ public class PasswordServiceImpl extends PasswordServiceImplBase {
     public void validatePasswords(ie.gmit.ds.checkPassword request,
     		io.grpc.stub.StreamObserver<com.google.protobuf.BoolValue> responseObserver) {
     	String hash, salt;
-    	//String password;
+    	String password;
     	//int userId;
     	Passwords p = null;
-    	boolean pass;
+    	boolean pass = false;
     	userIds u;
     	
     	//userId = request.getUserId();
-    	//password = request.getPassword();
+    	password = request.getPassword();
     	hash = request.getHash();
     	salt = request.getSalt();
-    	
-    	 u = usersList.get(0);
-    	
-    	pass = p.isExpectedPassword(u.getPassword().toCharArray(), salt.getBytes(), hash.getBytes());
+    	logger.info("yup" + usersHashList.size());
+		 
+    	 //u = usersList.get(0);
+    	 for (int i = 0 ; i < usersHashList.size(); i++) {
+    		 
+    		 logger.info("yup" + "  " + request.getPassword() + "  " + usersHashList.get(i) + "  " + usersHashList.get(i).getSalt() + "  " + usersHashList.get(i).getHashedPassword());
+    		 pass = p.isExpectedPassword(request.getPassword().toCharArray(), usersHashList.get(i).getSalt().getBytes(), usersHashList.get(i).getHashedPassword().getBytes());
+    		 if (pass == true) {
+    			 i = usersHashList.size() + 5;
+    		        logger.info("LOOPY LOOPY LOOOO" + usersHashList.get(i).getUserId());
+    			 
+    		 }
+    	 }
+    	 
     	
         logger.info("Password match?????: " + pass);
         
@@ -85,7 +95,7 @@ public class PasswordServiceImpl extends PasswordServiceImplBase {
        
     }
     
-    /*public void hashPassword(ie.gmit.ds.userId request,
+    /*public void hashPassword(ie.gmit.ds.userId request,0
             io.grpc.stub.StreamObserver<ie.gmit.ds.hashedPassword> responseObserver) {
           asyncUnimplementedUnaryCall(getHashPasswordMethod(), responseObserver);
         }*/

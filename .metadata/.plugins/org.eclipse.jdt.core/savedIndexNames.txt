@@ -1,24 +1,3 @@
 INDEX VERSION 1.131+C:\Users\james\Distributed-Project\.metadata\.plugins\org.eclipse.jdt.core
-3985013827.index
-2501993992.index
-223791125.index
-4224716498.index
-2580601073.index
-2883611122.index
-1364138881.index
-2450766700.index
-1198520236.index
-3256762102.index
-2366930196.index
-3056095231.index
-1762390743.index
-4049630174.index
 634119763.index
-611603845.index
-1690746107.index
-3440163411.index
-960907918.index
-962803338.index
-1960549217.index
-2863690387.index
-66709768.index
+3586283689.index
