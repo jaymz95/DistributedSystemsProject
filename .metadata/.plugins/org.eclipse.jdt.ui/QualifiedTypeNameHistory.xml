@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="io.grpc.ManagedChannel"/>
     <fullyQualifiedTypeName name="io.grpc.ManagedChannelBuilder"/>
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
-    <fullyQualifiedTypeName name="com.google.protobuf.BoolValue"/>
     <fullyQualifiedTypeName name="java.lang.System.Logger.Level"/>
     <fullyQualifiedTypeName name="io.grpc.StatusRuntimeException"/>
     <fullyQualifiedTypeName name="java.util.logging.Logger"/>
@@ -19,6 +18,10 @@
     <fullyQualifiedTypeName name="io.grpc.Status"/>
     <fullyQualifiedTypeName name="ie.gmit.ds.userIds"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="ie.gmit.ds.hashedPassword"/>
     <fullyQualifiedTypeName name="ie.gmit.ds.hashedPassword.Builder"/>
+    <fullyQualifiedTypeName name="com.google.protobuf.BoolValue"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="ie.gmit.ds.PasswordServiceImpl"/>
+    <fullyQualifiedTypeName name="ie.gmit.ds.checkPassword"/>
+    <fullyQualifiedTypeName name="ie.gmit.ds.hashedPassword"/>
 </qualifiedTypeNameHistroy>
