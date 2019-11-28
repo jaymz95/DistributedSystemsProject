@@ -1,8 +1,8 @@
-# DistributedSystemsProject
+# DistributedSystemsProject James Mullarkey (G00345716)
 
 GIT: https://github.com/jaymz95/DistributedSystemsProject
 
-### Run the the Service jar> java -jar part1Service.jar
+### Run the the Service jar> java -jar part1Server.jar
 
 - runs Server
 

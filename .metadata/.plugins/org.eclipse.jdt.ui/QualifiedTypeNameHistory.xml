@@ -24,4 +24,11 @@
     <fullyQualifiedTypeName name="ie.gmit.ds.PasswordServiceImpl"/>
     <fullyQualifiedTypeName name="ie.gmit.ds.checkPassword"/>
     <fullyQualifiedTypeName name="ie.gmit.ds.hashedPassword"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="org.eclipse.jetty.server.RequestLog.Collection"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
 </qualifiedTypeNameHistroy>
