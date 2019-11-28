@@ -29,6 +29,7 @@ public class User {
     @JsonProperty
 	public int getUserId() {
 		return userId;
+    	//return users.get(userId);
 	}
 
     @JsonProperty
