@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\james\Distributed-Project\user-api\pom.xml"/>
 			<item value="C:\Users\james\Distributed-Project\grpc-project"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -45,10 +46,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="ie.gmit.ds"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="user"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,6 +71,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\james\Distributed-Project\user-api"/>
 			<item value="C:\Users\james\Documents\artistAPI-dropwizard-soln"/>
 			<item value="C:\Users\james\Documents\Lab8_Distributed"/>
 			<item value="C:\Users\james\Documents\artistAPI-dropwizard"/>

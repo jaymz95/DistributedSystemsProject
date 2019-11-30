@@ -7,7 +7,7 @@ import org.hibernate.validator.constraints.*;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class User {
-
+	
     @NotNull
     private int userId;
     @NotBlank @Length(min=2, max=255)
