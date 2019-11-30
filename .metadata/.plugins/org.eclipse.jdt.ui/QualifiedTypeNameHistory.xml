@@ -31,4 +31,11 @@
     <fullyQualifiedTypeName name="org.eclipse.jetty.server.RequestLog.Collection"/>
     <fullyQualifiedTypeName name="java.util.Collection"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Response.Status"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.POST"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="javax.validation.ConstraintViolation"/>
+    <fullyQualifiedTypeName name="java.net.URI"/>
 </qualifiedTypeNameHistroy>

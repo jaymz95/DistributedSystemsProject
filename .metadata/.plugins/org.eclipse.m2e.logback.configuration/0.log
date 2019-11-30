@@ -3644,3 +3644,623 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact io.dropwizard
 2019-11-28 18:47:59,251 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-11-28 18:47:59,252 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-11-28 18:47:59,252 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 18:54:47,932 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 18:54:47,934 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 18:54:47,935 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 18:54:47,935 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 18:54:47,935 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 18:54:47,935 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 18:54:47,935 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 18:54:47,936 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 18:58:49,766 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 18:58:49,769 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 18:58:49,770 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 18:58:49,771 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 18:58:49,772 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 18:58:49,772 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 18:58:49,773 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 18:58:49,774 [Worker-455: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 18:58:50,806 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 18:58:50,810 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 18:58:50,810 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 18:58:50,811 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 18:58:50,812 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 18:58:50,813 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 18:58:50,814 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 18:58:50,814 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:08:58,538 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:08:58,541 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:08:58,541 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:08:58,542 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:08:58,543 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:08:58,543 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:08:58,544 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:08:58,544 [Worker-461: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:16:50,040 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:16:50,043 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:16:50,044 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:16:50,045 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:16:50,046 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:16:50,047 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:16:50,047 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:16:50,048 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:16:51,245 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:16:51,247 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:16:51,248 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:16:51,249 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:16:51,249 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:16:51,250 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:16:51,251 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:16:51,251 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:16:52,294 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:16:52,345 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:16:52,346 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:16:52,348 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:16:52,348 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:16:52,349 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:16:52,350 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:16:52,350 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:19:31,727 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:19:31,731 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:19:31,731 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:19:31,732 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:19:31,734 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:19:31,734 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:19:31,735 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:19:31,735 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:19:39,028 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:19:39,031 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:19:39,032 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:19:39,033 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:19:39,034 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:19:39,034 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:19:39,035 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:19:39,035 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:19:43,099 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:19:43,101 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:19:43,102 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:19:43,103 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:19:43,104 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:19:43,105 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:19:43,105 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:19:43,106 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:20:24,726 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:20:24,729 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-28 19:20:24,729 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:20:24,730 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-28 19:20:24,731 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:20:24,731 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-28 19:20:24,732 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-28 19:20:24,732 [Worker-465: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:33:19,513 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:33:19,516 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:33:19,516 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:33:19,518 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:33:19,519 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:33:19,519 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:33:19,520 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:33:19,520 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:35:00,274 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:35:00,276 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:35:00,277 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:35:00,332 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:35:00,334 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:35:00,337 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:35:00,338 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:35:00,339 [Worker-462: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:38:57,922 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:38:57,924 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:38:57,925 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:38:57,926 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:38:57,927 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:38:57,927 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:38:57,928 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:38:57,928 [Worker-463: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:38:59,101 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:38:59,108 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:38:59,109 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:38:59,110 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:38:59,111 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:38:59,112 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:38:59,112 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:38:59,113 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:39:00,162 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:39:00,166 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 14:39:00,166 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:39:00,168 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 14:39:00,168 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:39:00,169 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 14:39:00,170 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 14:39:00,170 [Worker-466: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:58:10,806 [Worker-587: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:artist-api-dropwizard-soln:1.0-SNAPSHOT @ C:\Users\james\Documents\Lab8_Distributed\pom.xml.
+2019-11-29 21:58:12,111 [Worker-587: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 21:58:12,135 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 21:58:12,136 [Worker-587: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 21:58:12,137 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 21:58:13,220 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 21:58:13,223 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 21:58:13,224 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 21:58:13,224 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:58:13,224 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:58:13,225 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:58:13,225 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 21:58:13,226 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:58:13,989 [Worker-585: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 21:58:13,990 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 21:58:13,990 [Worker-585: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 21:58:13,991 [Worker-585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 21:58:32,782 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 21:58:32,785 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 21:58:32,786 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 21:58:32,787 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:58:32,788 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 21:58:32,788 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 21:58:32,788 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 21:58:32,789 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:58:32,807 [Worker-589: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 21:58:32,808 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 21:58:32,809 [Worker-589: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 21:58:32,809 [Worker-589: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 21:58:33,842 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 21:58:33,845 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 21:58:33,845 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 21:58:33,847 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:58:33,847 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 21:58:33,848 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 21:58:33,849 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 21:58:33,849 [Worker-587: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 21:59:02,807 [Worker-586: Launching Executing generate-sources in C__Users_james_Distributed-Project_ie.gmit.ds] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\ie.gmit.ds
+2019-11-29 21:59:02,807 [Worker-586: Launching Executing generate-sources in C__Users_james_Distributed-Project_ie.gmit.ds] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-29 22:01:46,035 [Worker-583: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:user-api:1.0-SNAPSHOT @ C:\Users\james\Documents\Lab8_Distributed\pom.xml.
+2019-11-29 22:01:47,147 [Worker-583: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:01:47,148 [Worker-583: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 22:01:47,149 [Worker-583: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:01:47,150 [Worker-583: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 22:04:26,048 [Worker-592: Building Workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:grpc-project:0.0.1-SNAPSHOT @ C:\Users\james\Distributed-Project\grpc-project\pom.xml.
+2019-11-29 22:04:27,415 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:04:27,418 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:04:27,513 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:04:27,514 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:04:27,515 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:04:27,515 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:04:27,516 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:04:27,516 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:04:28,115 [Worker-592: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:04:28,116 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 22:04:28,116 [Worker-592: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:04:28,117 [Worker-592: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 22:04:39,196 [Worker-592: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:04:39,197 [Worker-592: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 22:04:39,198 [Worker-592: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:04:39,198 [Worker-592: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 22:04:58,878 [Worker-591: Launching Executing generate-sources in C__Users_james_Documents_Lab8_Distributed] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Documents\Lab8_Distributed
+2019-11-29 22:04:58,879 [Worker-591: Launching Executing generate-sources in C__Users_james_Documents_Lab8_Distributed] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-29 22:05:00,710 [Worker-595: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:05:00,711 [Worker-595: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 22:05:00,712 [Worker-595: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:05:00,713 [Worker-595: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 22:07:31,829 [Worker-591: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:07:31,830 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 22:07:31,831 [Worker-591: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:07:31,832 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 22:07:49,087 [Worker-597: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:07:49,088 [Worker-597: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 22:07:49,089 [Worker-597: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:07:49,090 [Worker-597: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 22:10:22,022 [Worker-594: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:10:22,023 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-29 22:10:22,024 [Worker-594: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-29 22:10:22,025 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-29 22:12:28,514 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:12:28,517 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:12:28,518 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:12:28,519 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:12:28,520 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 22:12:28,525 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 22:12:28,526 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:12:28,526 [Worker-591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:13:13,990 [Worker-596: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:grpc-project:0.0.1-SNAPSHOT @ C:\Users\james\Distributed-Project\grpc-project\pom.xml.
+2019-11-29 22:13:14,063 [Worker-596: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.dropwizard:dropwizard-core:jar:${dropwizard.version} is missing, no dependency information available
+2019-11-29 22:13:14,299 [Worker-596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:13:14,300 [Worker-596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:13:14,301 [Worker-596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:13:14,301 [Worker-596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:13:28,556 [Worker-594: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.dropwizard:dropwizard-core:jar:${dropwizard.version} is missing, no dependency information available
+2019-11-29 22:13:28,590 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:13:28,591 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:13:28,591 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:13:28,592 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:13:33,511 [Worker-591: Launching Executing generate-sources in C__Users_james_Distributed-Project_grpc-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\grpc-project
+2019-11-29 22:13:33,511 [Worker-591: Launching Executing generate-sources in C__Users_james_Distributed-Project_grpc-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-29 22:13:35,579 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:13:35,582 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:13:35,584 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:13:35,585 [Worker-594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:14:13,075 [Worker-599: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:grpc-project:0.0.1-SNAPSHOT @ C:\Users\james\Distributed-Project\grpc-project\pom.xml.
+2019-11-29 22:14:13,489 [Worker-599: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:14:13,492 [Worker-599: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:14:13,592 [Worker-599: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:14:13,594 [Worker-599: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:14:13,595 [Worker-599: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:14:13,595 [Worker-599: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:14:13,596 [Worker-599: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:14:13,596 [Worker-599: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:14:14,824 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:14:14,826 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:14:14,827 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:14:14,828 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:14:14,828 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 22:14:14,885 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 22:14:14,886 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:14:14,886 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:14:16,949 [Worker-591: Launching Executing generate-sources in C__Users_james_Distributed-Project_grpc-project] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\grpc-project
+2019-11-29 22:14:16,949 [Worker-591: Launching Executing generate-sources in C__Users_james_Distributed-Project_grpc-project] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-29 22:14:21,142 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:14:21,145 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-29 22:14:21,146 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:14:21,147 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-29 22:14:21,148 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 22:14:21,149 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-29 22:14:21,149 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-29 22:14:21,149 [Worker-598: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 09:47:43,679 [Worker-644: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 09:47:43,731 [Worker-644: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 09:47:43,735 [Worker-644: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 09:47:43,736 [Worker-644: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 12:55:50,073 [Worker-681: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 12:55:50,080 [Worker-681: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 12:55:50,081 [Worker-681: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 12:55:50,081 [Worker-681: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 13:07:01,274 [Worker-686: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 13:07:01,274 [Worker-686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 13:07:01,275 [Worker-686: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 13:07:01,275 [Worker-686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 13:07:10,579 [Worker-686: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 13:07:10,580 [Worker-686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 13:07:10,581 [Worker-686: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 13:07:10,582 [Worker-686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 13:07:46,388 [Worker-686: Launching Executing generate-sources in C__Users_james_Documents_Lab8_Distributed] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Documents\Lab8_Distributed
+2019-11-30 13:07:46,388 [Worker-686: Launching Executing generate-sources in C__Users_james_Documents_Lab8_Distributed] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 13:43:41,898 [Worker-698: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 13:43:41,899 [Worker-698: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 13:43:41,900 [Worker-698: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 13:43:41,901 [Worker-698: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 13:43:46,520 [Worker-700: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 13:43:46,521 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 13:43:46,522 [Worker-700: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 13:43:46,523 [Worker-700: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 16:39:32,148 [Worker-732: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:user-api:1.0-SNAPSHOT @ C:\Users\james\Documents\Lab8_Distributed\pom.xml.
+2019-11-30 16:39:33,115 [Worker-732: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:39:33,115 [Worker-732: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 16:39:33,116 [Worker-732: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:39:33,116 [Worker-732: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 16:42:05,753 [Worker-733: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:user-api:1.0-SNAPSHOT @ C:\Users\james\Documents\Lab8_Distributed\pom.xml.
+2019-11-30 16:42:06,671 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Documents\Lab8_Distributed\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 16:42:06,672 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Documents\Lab8_Distributed\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 16:42:06,673 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:42:06,673 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 16:42:06,673 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:42:06,673 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 16:42:08,520 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Documents\Lab8_Distributed\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 16:42:08,521 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Documents\Lab8_Distributed\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 16:42:08,521 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:42:08,522 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 16:42:08,522 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:42:08,522 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 16:42:09,514 [Worker-735: Launching Executing generate-sources in C__Users_james_Documents_Lab8_Distributed] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Documents\Lab8_Distributed
+2019-11-30 16:42:09,515 [Worker-735: Launching Executing generate-sources in C__Users_james_Documents_Lab8_Distributed] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 16:42:39,003 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Documents\Lab8_Distributed\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 16:42:39,004 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Documents\Lab8_Distributed\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 16:42:39,004 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:42:39,004 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 16:42:39,005 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:42:39,005 [Worker-735: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 16:43:04,090 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - No proto files to compile.
+2019-11-30 16:43:04,092 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - No proto files to compile.
+2019-11-30 16:43:04,092 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:43:04,093 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 16:43:04,093 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:43:04,094 [Worker-733: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 16:43:10,094 [Worker-737: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:43:10,094 [Worker-737: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 16:43:10,094 [Worker-737: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:43:10,094 [Worker-737: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 16:48:20,870 [Worker-736: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 16:48:20,872 [Worker-736: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 16:48:20,873 [Worker-736: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:48:20,873 [Worker-736: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\main\resources
+2019-11-30 16:48:20,874 [Worker-736: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 16:48:20,876 [Worker-736: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 16:48:20,877 [Worker-736: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 16:48:20,877 [Worker-736: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Documents\Lab8_Distributed\src\test\resources
+2019-11-30 20:14:19,450 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-30 20:16:20,487 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:user-api:1.0-SNAPSHOT @ C:\Users\james\Distributed-Project\user-api\pom.xml.
+2019-11-30 20:16:22,673 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 20:16:22,676 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 20:16:22,808 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user-api/src/main/java
+2019-11-30 20:16:22,816 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user-api/target/generated-sources/protobuf/java
+2019-11-30 20:16:22,821 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user-api/target/generated-sources/protobuf/grpc-java
+2019-11-30 20:16:22,822 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user-api/src/main/proto
+2019-11-30 20:16:22,827 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user-api/src/main/proto
+2019-11-30 20:16:22,832 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user-api/src/test/java
+2019-11-30 20:16:23,437 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2019-11-30 20:16:25,531 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 20:16:25,532 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Distributed-Project\user-api\src\main\resources
+2019-11-30 20:16:25,534 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 20:16:25,534 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Distributed-Project\user-api\src\test\resources
+2019-11-30 20:16:30,036 [Worker-4: Launching Executing generate-sources in C__Users_james_Distributed-Project_user-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user-api
+2019-11-30 20:16:30,037 [Worker-4: Launching Executing generate-sources in C__Users_james_Distributed-Project_user-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 20:16:38,358 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 20:16:38,364 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 20:16:38,366 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 20:16:38,366 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Distributed-Project\user-api\src\main\resources
+2019-11-30 20:16:38,372 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 20:16:38,386 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 20:16:38,388 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 20:16:38,388 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Distributed-Project\user-api\src\test\resources
+2019-11-30 20:49:00,637 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 20:49:00,642 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 20:49:00,643 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 20:49:00,643 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Distributed-Project\user-api\src\main\resources
+2019-11-30 20:49:00,644 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 20:49:00,646 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 20:49:00,647 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 20:49:00,647 [ModalContext] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Distributed-Project\user-api\src\test\resources
+2019-11-30 21:04:48,832 [Worker-28: Creating project "user"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:user:0.0.1-SNAPSHOT @ C:\Users\james\Distributed-Project\user\pom.xml.
+2019-11-30 21:04:49,029 [Worker-28: Creating project "user"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user/src/main/java
+2019-11-30 21:04:49,029 [Worker-28: Creating project "user"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user/src/main/resources
+2019-11-30 21:04:49,030 [Worker-28: Creating project "user"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user/src/test/java
+2019-11-30 21:04:49,030 [Worker-28: Creating project "user"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user/src/test/resources
+2019-11-30 21:04:49,525 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 21:04:49,529 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:04:49,531 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 21:04:49,533 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:05:25,041 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 21:05:25,045 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:05:25,047 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-30 21:05:25,048 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:06:42,740 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:user:1.0-SNAPSHOT @ C:\Users\james\Distributed-Project\user\pom.xml.
+2019-11-30 21:06:43,993 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Distributed-Project\user\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 21:06:43,994 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Distributed-Project\user\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 21:06:43,996 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:06:43,996 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:06:43,997 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:06:43,997 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:06:46,168 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Distributed-Project\user\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 21:06:46,170 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Distributed-Project\user\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 21:06:46,171 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:06:46,172 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:06:46,173 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:06:46,173 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:06:51,022 [Worker-31: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 21:06:51,022 [Worker-31: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 21:07:26,801 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Distributed-Project\user\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 21:07:26,803 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - C:\Users\james\Distributed-Project\user\src\main\proto does not exist. Review the configuration or consider disabling the plugin.
+2019-11-30 21:07:26,805 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:07:26,805 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:07:26,807 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:07:26,808 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:07:47,426 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - No proto files to compile.
+2019-11-30 21:07:47,428 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - No proto files to compile.
+2019-11-30 21:07:47,429 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:07:47,430 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:07:47,430 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:07:47,431 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:03,747 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:08:03,748 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:03,749 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:08:03,750 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:18,553 [Worker-31: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 21:08:18,553 [Worker-31: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 21:08:23,248 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:08:23,251 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:08:23,252 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:08:23,252 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:23,253 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:23,253 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:23,254 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:08:23,254 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:42,646 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:08:42,649 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:08:42,650 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:08:42,651 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:42,651 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:08:42,655 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:08:42,656 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:08:42,656 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:48,476 [Worker-29: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 21:08:48,477 [Worker-29: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 21:08:52,885 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:08:52,888 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:08:52,889 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:08:52,889 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:52,890 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:52,890 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:08:52,891 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:08:52,891 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:09:22,744 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:09:22,748 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:09:22,749 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:09:22,749 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:09:22,749 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:09:22,749 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:09:22,750 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:09:22,750 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:09:29,196 [Worker-29: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 21:09:29,196 [Worker-29: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 21:09:33,365 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:09:33,368 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:09:33,369 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:09:33,370 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:09:33,370 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:09:33,370 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:09:33,371 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:09:33,372 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:27:16,566 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-30 21:27:16,663 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ie.gmit.ds:user:1.0-SNAPSHOT @ C:\Users\james\Distributed-Project\user\pom.xml.
+2019-11-30 21:27:17,841 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:27:17,845 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:27:17,860 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user/src/main/java
+2019-11-30 21:27:17,866 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user/target/generated-sources/protobuf/java
+2019-11-30 21:27:17,871 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user/target/generated-sources/protobuf/grpc-java
+2019-11-30 21:27:17,871 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user/src/main/resources
+2019-11-30 21:27:17,876 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user/src/main/proto
+2019-11-30 21:27:17,881 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user/src/main/proto
+2019-11-30 21:27:17,886 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /user/src/test/java
+2019-11-30 21:27:17,886 [Worker-37: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /user/src/test/resources
+2019-11-30 21:27:18,479 [Worker-37: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-11-30 21:27:20,099 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:27:20,100 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:27:20,101 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:27:20,101 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:27:31,108 [Worker-30: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 21:27:31,108 [Worker-30: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 21:27:35,577 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:27:35,581 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:27:35,583 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:27:35,584 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:27:35,585 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:27:35,589 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:27:35,591 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:27:35,591 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:30:35,839 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:30:35,842 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:30:35,844 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:30:35,845 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:30:35,846 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:30:35,847 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:30:35,850 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:30:35,850 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:30:36,983 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:30:36,988 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:30:36,989 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:30:36,990 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:30:36,991 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:30:36,992 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:30:36,993 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:30:36,993 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:32:04,582 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:32:04,585 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:32:04,586 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:32:04,586 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:32:04,587 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:32:04,588 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:32:04,589 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:32:04,589 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:32:10,584 [Worker-30: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 21:32:10,584 [Worker-30: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 21:32:15,119 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:32:15,123 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:32:15,124 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:32:15,126 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:32:15,127 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:32:15,128 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:32:15,129 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:32:15,130 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:34:33,034 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:34:33,037 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:34:33,038 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:34:33,039 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:34:33,039 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:34:33,040 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:34:33,041 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:34:33,042 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:36:09,497 [Worker-44: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 21:36:09,497 [Worker-44: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 21:36:13,782 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:36:13,785 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 21:36:13,786 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:36:13,786 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 21:36:13,787 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:36:13,788 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 21:36:13,789 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 21:36:13,789 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:14:16,628 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:14:16,632 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:14:16,633 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:14:16,634 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:14:16,634 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:14:16,636 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:14:16,637 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:14:16,637 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:14:46,732 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:14:46,735 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:14:46,735 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:14:46,736 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:14:46,737 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:14:46,737 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:14:46,738 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:14:46,738 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:15:31,479 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:15:31,481 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:15:31,483 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:15:31,483 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:15:31,484 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:15:31,484 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:15:31,486 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:15:31,486 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:15:54,568 [Worker-60: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 22:15:54,568 [Worker-60: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 22:15:58,627 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:15:58,631 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:15:58,632 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:15:58,633 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:15:58,634 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:15:58,635 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:15:58,636 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:15:58,636 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:19:13,722 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:19:13,726 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:19:13,726 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:19:13,727 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:19:13,728 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:19:13,729 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:19:13,730 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:19:13,730 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:19:14,906 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:19:14,911 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:19:14,912 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:19:14,913 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:19:14,914 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:19:14,915 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:19:14,916 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:19:14,917 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:31:33,770 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:31:33,773 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:31:33,774 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:31:33,774 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Distributed-Project\user-api\src\main\resources
+2019-11-30 22:31:33,774 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:31:33,775 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:31:33,776 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:31:33,776 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\james\Distributed-Project\user-api\src\test\resources
+2019-11-30 22:31:34,805 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:31:34,808 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:31:34,809 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:31:34,810 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:31:34,810 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:31:34,810 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:31:34,811 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:31:34,811 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:32:26,825 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:32:26,828 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:32:26,828 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:32:26,829 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:32:26,830 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:32:26,830 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:32:26,831 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:32:26,832 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:32:27,909 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:32:27,911 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:32:27,912 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:32:27,912 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:32:27,913 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:32:27,914 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-30 22:32:27,914 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:32:27,914 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:32:41,368 [Worker-66: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Distributed-Project\user
+2019-11-30 22:32:41,368 [Worker-66: Launching Executing generate-sources in C__Users_james_Distributed-Project_user] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2019-11-30 22:32:45,816 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:32:45,819 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping compilation because build context has no changes.
+2019-11-30 22:32:45,820 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-30 22:32:45,822 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-30 22:32:45,822 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

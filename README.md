@@ -2,12 +2,23 @@
 
 GIT: https://github.com/jaymz95/DistributedSystemsProject
 
+
+# Part 1
+
 ### Run the the Service jar> java -jar part1Server.jar
 
 - runs Server
 
-### Run the the Client jar> java -jar part1Client.jar
 
-- runs client
-- outputs menu options to 1) Create Account or 2) Sign In
-- then enter sign in or new account details
+# Part 2
+
+#### SwaggerHub : https://app.swaggerhub.com/apis/Jaymz954/UserAPI/1#free
+
+## Commands
+
+mvn package
+java -jar target/user-1.0-SNAPSHOT.jar server userApiConfig.yaml
+
+#### URL: http://localhost:9000/users/
+To get first user and so on:
+http://localhost:9000/users/1 

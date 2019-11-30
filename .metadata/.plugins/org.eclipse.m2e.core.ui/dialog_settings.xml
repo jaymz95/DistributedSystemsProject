@@ -68,6 +68,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\james\Documents\artistAPI-dropwizard-soln"/>
+			<item value="C:\Users\james\Documents\Lab8_Distributed"/>
 			<item value="C:\Users\james\Documents\artistAPI-dropwizard"/>
 			<item value="C:\Users\james\Downloads\DistributiveProject\DistributiveProject"/>
 		</list>
